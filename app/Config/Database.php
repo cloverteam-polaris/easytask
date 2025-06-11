@@ -27,9 +27,9 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'smartia-user',
-        'password'     => '8aT.L2koL1(zqE1D',
-        'database'     => 'gesel_smartia',
+        'username'     => 'ser',
+        'password'     => '81D',
+        'database'     => '',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
